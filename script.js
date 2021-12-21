@@ -4,7 +4,7 @@
 const input = document.querySelector('.input'),
     text = document.querySelector('.text');
 
-/
+
 
 function debounce() {
     input.addEventListener('change', () => {
